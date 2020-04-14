@@ -4,6 +4,7 @@ namespace lanelet {
 
 #if __cplusplus < 201703L
 constexpr char Locations::Germany[];
+constexpr char Locations::UnitedStates[];
 #endif
 
 namespace traffic_rules {

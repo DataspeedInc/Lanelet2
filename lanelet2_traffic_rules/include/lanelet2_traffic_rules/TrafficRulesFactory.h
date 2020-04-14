@@ -4,6 +4,7 @@
 namespace lanelet {
 struct Locations {
   static constexpr char Germany[] = "de";
+  static constexpr char UnitedStates[] = "us";
 };
 
 // participants are defined in lanelet2_core/Attributes.h
